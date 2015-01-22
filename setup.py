@@ -20,6 +20,7 @@ if __name__ == '__main__':
         license="New BSD license",
         url="https://github.com/phobologic/random_name",
         description='Simple tool for generating random names.',
+        long_description=read('README.rst'),
         classifiers=[
             "Intended Audience :: Developers",
             "Natural Language :: English",
