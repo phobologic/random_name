@@ -1,3 +1,5 @@
+__version__ = "0.1.1"
+
 import random
 
 from .dictionaries import ADJECTIVES, COLORS, ANIMALS
