@@ -1,6 +1,6 @@
 import random
 
-from dictionaries import ADJECTIVES, COLORS, ANIMALS
+from .dictionaries import ADJECTIVES, COLORS, ANIMALS
 
 
 def generate_name(repeat_parts=False, separator='-',
